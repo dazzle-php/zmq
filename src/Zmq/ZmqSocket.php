@@ -1,9 +1,9 @@
 <?php
 
-namespace Kraken\Ipc\Zmq;
+namespace Dazzle\Zmq;
 
-use Kraken\Event\BaseEventEmitter;
-use Kraken\Loop\LoopInterface;
+use Dazzle\Event\BaseEventEmitter;
+use Dazzle\Loop\LoopInterface;
 use ZMQ;
 use ZMQSocket as RawZMQSocket;
 

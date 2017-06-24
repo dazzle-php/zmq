@@ -1,8 +1,8 @@
 <?php
 
-namespace Kraken\Ipc\Zmq;
+namespace Dazzle\Zmq;
 
-use Kraken\Loop\LoopInterface;
+use Dazzle\Loop\LoopInterface;
 use ZMQ;
 use ZMQContext as RawZMQContext;
 use ZMQSocket as RawZMQSocket;
