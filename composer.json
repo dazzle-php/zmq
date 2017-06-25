@@ -34,7 +34,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dazzle\\Zmq\\": "src/Socket",
+            "Dazzle\\Zmq\\": "src/Zmq",
             "Dazzle\\Zmq\\Test\\": "test"
         }
     },
